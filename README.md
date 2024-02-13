@@ -5,4 +5,5 @@
 
 ## Version
 ### v0.2.1
-- [ ] push my index.html to docker hub
+- [X] push my index.html to docker hub
+- https://hub.docker.com/repository/docker/soominjeong/nginx-vim-2/general
